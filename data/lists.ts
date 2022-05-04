@@ -1,0 +1,64 @@
+const lists = [
+    `mad
+    fear
+    hate
+    rage
+    temper
+    fury
+    ire
+    wrath
+    happy
+    fight`,
+    `velocity
+    acceleration
+    momentum
+    mass
+    displacement
+    kinematics
+    mechanics
+    friction
+    energy
+    conservation`,
+    `table
+    sit
+    legs
+    seat
+    couch
+    desk
+    recliner
+    sofa
+    wood
+    cushion`,
+    `sovereign
+    state
+    border
+    nation
+    government
+    regime
+    citizens
+    comparative
+    development
+    economy`,
+    `town
+    crowded
+    state
+    capital
+    streets
+    subway
+    country
+    New York
+    village
+    metropolis`,
+    `algorithm
+    function
+    variable
+    program
+    computer
+    installation
+    runtime
+    compile
+    error
+    python`
+];
+
+export default lists;
